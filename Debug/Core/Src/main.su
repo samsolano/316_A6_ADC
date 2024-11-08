@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Core/Src/main.c:26:5:main	16	static,ignoring_inline_asm
+../Core/Src/main.c:102:10:voltage_calibration	16	static
+../Core/Src/main.c:113:6:ADC1_2_IRQHandler	4	static
+../Core/Src/main.c:136:6:ADC_init	16	static
+../Core/Src/main.c:189:6:UART_init	4	static
+../Core/Src/main.c:213:6:UART_print	16	static
+../Core/Src/main.c:231:6:SystemClock_Config	96	static
+../Core/Src/main.c:279:6:Error_Handler	4	static,ignoring_inline_asm
